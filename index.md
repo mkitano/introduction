@@ -1,23 +1,28 @@
-# Introduction
-
-<small>https://mkitano.github.io/introduction</small>
+## 自己紹介
 
 ---
 
 ### 北野宗之
 
-#### 略歴
+#### 開発経験
 
-- Spring BootによるサーバサイドWebアプリ
-- AWS LambdaによるサーバレスなWebAPI
-- Serverless Framework, Docker/Kubernates勉強中
-- GitHub, Qiita: mkitano
+- Spring Boot のサーバサイド Web アプリ
+- AWS Lambda のサーバレスな WebAPI
+- Watson を使用した質問応答システム
+- Vue.js の SPA, iOS ネイティブアプリ
 
 ---
 
 ### その他
 
-- 千葉県船橋市から通勤
-- CtrlとCapsLockを入れ替える派
-- 好きなエディタはVisual Studio Code
+- GitHub, Qiita は mkitano
+- Serverless Framework, k8s 勉強中
+- ペーパースクラムマスター
+- Ctrl と CapsLock を入れ替えたい派
 - 左利き
+- 千葉県船橋市から通勤
+- 周りに面白そうと思われる仕事をしたい
+
+---
+
+#### よろしくお願い致します
